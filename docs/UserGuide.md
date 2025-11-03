@@ -865,7 +865,7 @@ Two confirmed appointments clash.
   [p/PHONE] [e/EMAIL] [a/ADDRESS] [t/TAG]... [r/RANK]
   Example: edit John Doe p/91234567 e/johndoe@example.com
   ```
-- Invalid name of client to edit: `edit John Doe n/newName` when the client `John Doe` don't exist.<br>
+- Invalid name of client to edit: `edit John Doe n/newName` when the client `John Doe` doesm't exist.<br>
   ```
   The person's name provided is invalid
   ```
