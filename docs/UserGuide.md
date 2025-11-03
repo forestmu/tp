@@ -916,8 +916,8 @@ Two confirmed appointments clash.
   ```
   Invalid command format!  
   Edit flag: Updates an existing appointment for a client. 
-  Parameters: link -e id/ID [appt/DATE TIME] [len/MINUTES] [loc/LOCATION] [type/TYPE]
-  [msg/NOTES] [status/planned|confirmed|completed|cancelled] 
+  Parameters: link -e id/ID [appt/DATE TIME] [len/MINUTES] [loc/LOCATION] 
+  [type/TYPE] [msg/NOTES] [status/planned|confirmed|completed|cancelled] 
   Example: link -e id/1234567 appt/12-10-2025 1430 len/90 loc/Bukit Merah FSC 
   type/home-visit msg/Bring consent form status/planned
   ```
