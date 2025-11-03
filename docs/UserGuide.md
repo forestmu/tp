@@ -137,7 +137,7 @@ This guide provides instructions for Social Workers in Singapore on how to effic
     Note that the window size may differ depending on how you resize it.<br>
     <br>
 
-    ![Ui](images/UI/Ui.png)
+    ![Ui](images/Ui.png)
     
     <br>
 5. Try typing some command in the command box and press Enter to execute it. <br> E.g. typing `help` and pressing Enter will open the help window.<br>
